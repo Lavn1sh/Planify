@@ -12,11 +12,11 @@ _2_) _Fill the form with appropriate details and just press enter. And its done!
 _3_) _Repeat the process to add more markers._
 
 # Features to be implemented in future.
-- [] Creating a button to delete the existing pins.
-- [] Implementing automatic sorting of plans in the list by nearest date.
-- [] Adding more details to the plan list like _Items to Carry_.
-- [] Adding a feature to mark specific routes for travels.
-- [] Implementing automatic detection of the place name where the marker is located while also keeping the manual entry option.
+- [ ] Creating a button to delete the existing pins.
+- [ ] Implementing automatic sorting of plans in the list by nearest date.
+- [ ] Adding more details to the plan list like _Items to Carry_.
+- [ ] Adding a feature to mark specific routes for travels.
+- [ ] Implementing automatic detection of the place name where the marker is located while also keeping the manual entry option.
 
   __I hope everyone who checks out this application can provide their valuable feedback on lavnishpandey111@gmail.com__
   Thank you.
